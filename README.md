@@ -1,1 +1,1 @@
-# GCP-DevOps-project
+# GCP DevOps project
