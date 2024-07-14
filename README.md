@@ -29,3 +29,18 @@ This document outlines the steps to create a new GitHub repository, set up the r
 ### 4. Writing a Simple Docker Image
 - Create a `Dockerfile` in the root of your project
   
+## Sprint 02: Create GKE cluster
+### 1. Creating GCP account
+Create GCP account by visiting this URL : console.cloud.google.com 
+
+### 2. Setting up budget and alerting
+
+### 3. Setting up GKE cluster
+Create Kubernetes cluster by specifying some parameters like cluster name.
+
+## Sprint 03: Design discussion
+### 1. Connecting Github repo and Cloud Build
+Connect Github repo and Cloud Build using Cloud Build Trigger and specifying cloudbuild.yaml file as configuration file 
+
+### 2. Create cloudbuild.yaml file
+Contains automating building of image based on event like push to the master/main branch.
