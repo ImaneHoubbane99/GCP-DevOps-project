@@ -58,3 +58,8 @@ We can list then namespaces using : kubectl get namespaces
 
 ### 2. Create deployment file
 
+### 3. Update cloudbuild file
+Use deployment file in cloudbuild file to deploy the image created in steps before.
+
+
+
