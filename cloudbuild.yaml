@@ -11,7 +11,7 @@ images:
   args:
   - run 
   - --filename=deployment_gke.yaml
-  - --image="gcr.io/$PROJECT_ID/gcpdevops"
+  - --image="gcr.io/$PROJECT_ID/gcpdevops:latest"
   - --location=us-central-c
   - --cluster=gcp-devops-project
   - --namespace=gcp-devops-prod
