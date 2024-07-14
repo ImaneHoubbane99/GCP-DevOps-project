@@ -63,4 +63,4 @@ Use deployment file in cloudbuild file to deploy the image created in steps befo
 
 ## Sprint 06: Expose application to the external users
 ### Add service to deployment_gke file to expose application on port 80
-
+![Example Image](images/sprint06.png)
