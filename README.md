@@ -50,4 +50,11 @@ Contains automating building of image based on event like push to the master/mai
 
 ### 2. Create cloudbuild.yaml file
 
-  
+## Sprint 05: Deployment in K8s
+### 1. Create namespace in GKE cluster
+Using the command : kubectl create namespace gcp-devops-prod to create namespace for our project.
+We can list then namespaces using : kubectl get namespaces
+![Example Image](images/sprint05_namespace.png)
+
+### 2. Create deployment file
+
