@@ -18,7 +18,6 @@ steps:
   - run 
   - --filename=deployment_gke.yaml
   - --image=gcr.io/devops-429410/gcpdevops:latest
-  - --location=us-central-c
   - --cluster=gcp-devops-project
   - --namespace=gcp-devops-prod
 
