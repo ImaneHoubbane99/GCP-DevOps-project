@@ -61,5 +61,11 @@ We can list then namespaces using : kubectl get namespaces
 ### 3. Update cloudbuild file
 Use deployment file in cloudbuild file to deploy the image created in steps before.
 
+## Sprint 06: Deployment in K8s
+### 1. 
 
+
+### 2. 
+
+### 3. 
 
